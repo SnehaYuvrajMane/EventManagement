@@ -1,4 +1,7 @@
 Event Management System
+
+
+
 This is a full-stack event management application built with the MERN stack (MongoDB, Express, React, Node.js) and styled with Tailwind CSS. The application allows users to create, view, delete events, send event reminders, and manage attendees.
 
 Table of Contents
