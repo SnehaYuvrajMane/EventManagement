@@ -44,7 +44,7 @@ MongoDB Atlas Account (or a locally installed MongoDB instance)
 Step 1: Clone the Repository
 bash
 Copy code
-git clone https://github.com/your-username/event-management-system.git
+git clone github.com/SnehaYuvrajMane/EventManagement
 cd event-management-system
 Step 2: Set up the Backend (Server)
 Navigate to the server directory:
